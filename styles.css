@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration:none;
+}
+
+.logo{
+    position: absolute;
+    left: 50px;
+}
+.searchbar{
+    height: 40px;
+    width: 600px;
+    background-color: rgb(237, 233, 233);
+    position:absolute;
+    left: 400px;
+    top: 25px;    
+    border-radius: 50px;
+    font-size: 17px;
+}
+
+.search{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+}
+
+.camera{
+    position: absolute;
+    top: 8px;
+    right: 20px;
+}
+
+.searchbar .S{
+    position: absolute;
+    top: 10px;
+    left:45px;
+}
+
+.login{
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    top: 55px;
+    right: 210px;
+    font-size: 14px;
+}
+.s{
+    position: absolute;
+    top:27px;
+    right: 250px;
+    font-size: 14px;
+}
+
+.wishlist{
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    top: 55px;
+    right: 140px;
+    font-size: 14px;
+}
+.w{
+    position: absolute;
+    top:25px;
+    right:170px;
+    font-size: 14px;
+}
+
+.Bag{
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    top: 55px;
+    right:60px;
+    font-size: 14px;
+}
+.b{
+    position: absolute;
+    top: 23px;
+    right:102px;
+    font-size: 14px;
+}
+
+.navbar {
+    height: 13px;
+    padding:15px;
+    overflow: hidden;
+    background-color:  rgb(237, 233, 233);;
+    position: relative;
+    top: 100px;
+    text-decoration: none;
+}
+
+.navbar a{
+  float: right;
+  color: #0c0c0c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  right: 500px;
+  bottom:17px;
+}
+
+.navbar a:hover{
+    /* background: rgb(222, 28, 28); */
+    color: red;
+}
+
+.background{
+    height: 500px;
+    width: 1450px;
+    background-color: black;
+    position: absolute;
+    top:180px;
+    left:42px;
+}
+
+.stamp1{
+    border: 20px;
+    height: 350px;
+    width: 330px;
+    /* background-color: red; */
+    position: absolute;
+    top: 800px;
+    left: 450px;
+}
+.stamp2{
+    border: 20px;
+    height: 350px;
+    width: 330px;
+    /* background-color: red; */
+    position: absolute;
+    top: 800px;
+    left: 800px;
+}
+.stamp3{
+    border: 20px;
+    height: 350px;
+    width: 330px;
+    /* background-color: red; */
+    position: absolute;
+    top: 800px;
+    left: 1150px;
+}
+
+.heading{
+    color: brown;
+    position: absolute;
+    top: 900px;
+    left: 20px;
+    font-size: 65px;
+    font-family:"Special Elite", system-ui;
+}
+.heading2{
+    color: brown;
+    position: absolute;
+    top: 970px;
+    left: 110px;
+    font-size: 65px;
+    font-family:"Special Elite", system-ui;
+}
+.space{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    position:absolute;
+    top: 1200px;
+}
+
