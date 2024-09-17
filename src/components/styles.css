@@ -83,7 +83,7 @@
 }
 
 .navbar {
-    height: 13px;
+    height: 50px;
     padding:15px;
     overflow: hidden;
     background-color:  rgb(237, 233, 233);;
@@ -104,6 +104,11 @@
   bottom:17px;
 }
 
+.navbar .links{
+    display: flex;
+    gap: 1.5rem;
+  }
+
 .navbar a:hover{
     /* background: rgb(222, 28, 28); */
     color: red;
@@ -113,8 +118,8 @@
     height: 500px;
     width: 1450px;
     background-color: black;
-    position: absolute;
-    top:180px;
+    position: relative;
+    top:140px;
     left: 65px;
 }
 
